@@ -1,0 +1,24 @@
+$link-color: #cc55bc;
+$link-hover-color: red;
+$link-active-color: #2536ba;
+$link-visited-color: #8938cc;
+$link-hover-decoration: none;
+
+$pseudo-color: $link-color;
+$pseudo-decoration: 'dotted';
+$pseudo-hover-color: $link-hover-color;
+$pseudo-hover-decoration: $link-hover-decoration;
+
+$link-accent-color: rgb(255, 255, 255);
+$link-accent-decoration: rgba(255, 255, 255, 0.3);
+$link-accent-hover-color: darken($link-accent-color, 15%);
+$link-accent-hover-decoration: darken($link-accent-decoration, 15%);
+$link-accent-active-color: $link-active-color;
+$link-accent-active-decoration: $link-active-color;
+$link-accent-visited-color: $link-visited-color;
+$link-accent-visited-decoration: $link-visited-color;
+
+$pseudo-accent-color: rgb(255, 255, 255);
+$pseudo-accent-decoration: rgba(255, 255, 255, 0.3);
+$pseudo-accent-hover-color: darken($pseudo-accent-color, 15%);
+$pseudo-accent-hover-decoration: darken($pseudo-accent-decoration, 15%);

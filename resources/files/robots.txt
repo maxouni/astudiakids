@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /api
+Host: https://astudiakids.ru
+Sitemap: https://astudiakids.ru/sitemap.xml
+
+User-agent: Yandex
+Clean-param: yandex-source
