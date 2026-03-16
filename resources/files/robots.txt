@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /api
-Host: https://astudiakids.ru
-Sitemap: https://astudiakids.ru/sitemap.xml
+Host: https://astudia-kids.ru
+Sitemap: https://astudia-kids.ru/sitemap.xml
 
 User-agent: Yandex
 Clean-param: yandex-source
