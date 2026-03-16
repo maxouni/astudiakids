@@ -23,8 +23,7 @@ p:last-child {
   &__bg {
     width: 100vw;
     min-height: 100vh;
-    background: #efefef40;
-    background: url("/assets/bg.jpg") repeat;
+    background: #02b5a01c;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -41,7 +40,7 @@ p:last-child {
 
   &__logo {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     flex-flow: row nowrap;
     height: 50px;
     border-bottom: 1px solid #eaeaea;
