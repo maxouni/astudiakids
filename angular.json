@@ -41,7 +41,11 @@
                 "input": "resources/files",
                 "output": "/"
               },
-              "projects/desktop/src/favicon.ico",
+              {
+                "glob": "*",
+                "input": "resources/favicon",
+                "output": "/"
+              },
               "projects/desktop/src/assets"
             ],
             "styles": [
